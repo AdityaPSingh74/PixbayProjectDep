@@ -1,2 +1,2 @@
-# PixbayProjectDep
+# PixbayProject
 gedc challenge
